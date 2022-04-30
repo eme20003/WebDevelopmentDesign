@@ -5,10 +5,10 @@ Fonts are separated by a | */
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Fjalla+One&display=swap');
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #396E94   ;
-  --secondary-color: #E7C24F ;
-  --accent1-color: #A42212;
-  --accent2-color: white;
+  --primary-color: #49A078 ;
+  --secondary-color: #DCE1DE ;
+  --accent1-color: #216869;
+  --accent2-color: #9CC5A1;
 
   /* change the values below to your chosen font(s) */
   --heading-font: "Fjalla One";
