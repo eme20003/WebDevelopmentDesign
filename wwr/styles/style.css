@@ -9,6 +9,10 @@ div {
 
 }
 
+.logo{
+    height: 50px;
+}
+
 #logo_link{
     padding-top: 5px;
 }
