@@ -295,3 +295,70 @@ footer .social{
     margin-top: -100px;
     margin-right: auto;
 }
+
+/* 3rd page */
+
+.mustang img{
+    height: 500px;
+    width: 1000px;
+    margin: 20px 100px;
+}
+
+.how-it-works {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(2, 1fr);
+}
+
+.how-it-works img{
+    height: 300px;
+    width: 400px;
+}
+
+.interior{
+    grid-column: 1/2;
+    grid-row: 1;
+    margin-bottom: 50px;
+}
+
+.engine{
+    grid-column: 1;
+    grid-row: 2;
+}
+
+.interior,
+.engine {
+    display: flex;
+}
+
+.interior img {
+    margin-right: 0px auto;
+}
+
+.engine img {
+    margin-right: 0px auto;
+}
+
+.interior h2{
+    text-align: left;
+    width: 100%;
+    margin-left: 20px;
+}
+
+.interior p{
+    text-align: left;
+    margin-top: 100px;
+    margin-left: -400px;
+}
+
+.engine h2{
+    text-align: left;
+    width: 100%;
+    margin-left: 20px;
+}
+
+.engine p {
+    text-align: left;
+    margin-top: 100px;
+    margin-left: -300px;
+}
